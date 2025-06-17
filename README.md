@@ -23,3 +23,8 @@ Each message is rendered using a reusable MessageBubble component that accepts t
 The project structure also includes necessary build files such as index.js, App.js, index.html, and package.json, ensuring compatibility with React development environments and npm package managers. The project does not rely on any backend or database, keeping it purely front-end, but it is structured in a way that backend integration or API connections can easily be added later to enhance functionality, such as using OpenAI or weather APIs for real data.
 
 In summary, the Real-Time Chat Application is an ideal beginner-to-intermediate React project that blends practical coding techniques with a fun and engaging interface. It reinforces essential React skills such as state management, component composition, conditional rendering, and basic form handling, while providing a clear foundation for more advanced real-time or AI-enhanced applications. It demonstrates how even simple logic, when well-organized and designed, can create a rich interactive experience for users
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/10d06425-dcfe-4059-b47c-05b3f148fde4)
+
